@@ -28,7 +28,7 @@ These are categorized in two:
 ### Project setup Instructions
 The project has been created with HTML5, TailwindCss and Javascript.
 In order to run in in developers mode, ensure to have procede to:
-1. [clone into this repo](https://github.com/TheEmerald001/kazi-mashinani.git)
+1. [clone into this repo](https://github.com/Mickey254-ja/phaseI-final-project.git)
 1. Install TailwindCSS 
     `npm install -D tailwindcss`
 1. Run the index.html file using live-server
@@ -43,11 +43,11 @@ Alternatively, you can interact with application via this [live-deployed-link]()
 
 ### Develper contact
 
-[phone]() •  [email]() •  [GitHub]()
+[phone](wa.me/254716831819) •  [email](mickey.awino@student.moringaschool.com) •  [GitHub](https://github.com/Mickey254-ja)
 
 ---
 
-This project is licensed under the [MIT License]()
+This project is licensed under the [MIT License](https://github.com/Mickey254-ja/phaseI-final-project/blob/main/LICENSE)
 
 ---
 
