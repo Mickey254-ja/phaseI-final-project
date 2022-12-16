@@ -26,8 +26,8 @@ These are categorized in two:
     1. Rate worker after service delivery.
 
 ### Project setup Instructions
-The project has been created with HTML5, TailwindCss and Javascript.
-In order to run in in developers mode, ensure to have procede to:
+The project has been created with HTML5, bootstrapped with TailwindCss and Javascript.
+In order to run in in developers mode, ensure to have, then procede to:
 1. [clone into this repo](https://github.com/Mickey254-ja/phaseI-final-project.git)
 1. Install TailwindCSS 
     `npm install -D tailwindcss`
