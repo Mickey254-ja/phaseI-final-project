@@ -26,7 +26,7 @@ function showWorkers(worker){
     wokerDetails.appendChild(workerContainer)
 
     const workerImage = document.createElement("img")
-    workerImage.setAttribute('class', 'w-full rounded-lg sm:rounded-none sm:rounded-l-lg')
+    workerImage.setAttribute('class', 'w-full rounded-lg sm:rounded-none sm:rounded-l-lg imagediv')
     workerImage.src = worker.image
     workerContainer.appendChild(workerImage)
 

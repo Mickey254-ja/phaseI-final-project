@@ -1,15 +1,19 @@
 /* Display at centre of page */
 .loginform {
-    margin: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
-    background-color: #15172b;
-    border-radius: 20px;
-    box-sizing: border-box;
-    padding: 20px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  background-color: #15172b;
+  border-radius: 20px;
+  box-sizing: border-box;
+  padding: 20px;
+}
+.imagediv{
+  width: 50%;
+  padding: 10px;
 }
 .title {
   color: #eee;
