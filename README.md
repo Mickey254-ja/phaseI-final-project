@@ -51,5 +51,5 @@ This project is licensed under the [MIT License](https://github.com/Mickey254-ja
 
 ---
 
-#### Copyright *©2022 Mikki A*
+#### Copyright *©2022 Mikki JA*
 
