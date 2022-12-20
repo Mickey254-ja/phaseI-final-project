@@ -1,7 +1,7 @@
 # PHASE 1 MORINGA SCHOOL PROJECT
 ## Kazi Mashinani
 
-*Author - Mickey Awino*
+*Author - Mickey Jane Awino*
 *12th Dec 2022*
 
 ### Introduction
