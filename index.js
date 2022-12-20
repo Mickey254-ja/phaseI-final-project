@@ -71,5 +71,7 @@ function showWorkers(worker){
     li2.appendChild(telephone)
     contacts.appendChild(li2)
 
+    const hireDetails = document.createElement("button")
+
     detail.appendChild(contacts)
 }
